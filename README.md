@@ -1,2 +1,3 @@
 # QuickLayout
-iOS UI Prototyping helper
+
+A description of this package.
